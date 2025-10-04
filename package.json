@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node bot100.js"
   },
+  "engines" : {
+    "node" : "18"
+  },
   "keywords": [
     "puppeteer",
     "bot",
@@ -17,3 +20,4 @@
     "puppeteer-extra-plugin-stealth": "^2.11.1"
   }
 }
+
