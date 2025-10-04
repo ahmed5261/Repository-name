@@ -1,0 +1,19 @@
+{
+  "name": "adsterra-bot",
+  "version": "1.0.0",
+  "description": "Puppeteer bot for generating traffic.",
+  "main": "bot100.js",
+  "scripts": {
+    "start": "node bot100.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "bot",
+    "nodejs"
+  ],
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
